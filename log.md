@@ -16,4 +16,12 @@
 **项目链接:** [grid布局小练习](https://codepen.io/youyi2016-the-encoder/pen/NmyLxx?editors=1100)
 
 
+### Day3  2019-04-18:  
+**今天的进步**: 手写动画，css中实现动画有2种，transition和animation，transition只有一个起始状态和一个结束状态；而animation通过keyframes可以设置多帧动画.
+
+**思考:** 什么时候该用transition什么时候该用animation？transition强调的是单一动画属性的效果，例如渐显等动效，animation强调的是多种动画属性的结合，可以给元素设置多帧动画动画效果更好。animation可以实现transition的动画效果，transition可以看作animation的子集，但是animation比transition更耗性能，所以一般transition能实现的动效不用animation实现。animation当动效结束会自动回到最初状态，而transition会停留在最终设置的结束状态。
+
+**项目链接:** [CSS动画](https://codepen.io/youyi2016-the-encoder/pen/NmYLYN)
+
+
 
