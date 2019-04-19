@@ -23,5 +23,13 @@
 
 **项目链接:** [CSS动画](https://codepen.io/youyi2016-the-encoder/pen/NmYLYN)
 
+### Day4  2019-04-19:  
+**今天的进步**: 因为加班，没有明确的自己的学习计划，今天了解发现css另外的天地，一幅动图可以完全只有css+html写，看来自己确实资质尚浅。
+
+**思考:** 你该如何解释，使用animation还是transition做动画的标准条件是什么？
+
+**项目链接:** [CSS动画Demo大全，非常让人惊喜的动画](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0)
+
+
 
 
