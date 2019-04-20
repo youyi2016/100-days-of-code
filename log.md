@@ -30,6 +30,11 @@
 
 **项目链接:** [CSS动画Demo大全，非常让人惊喜的动画](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0)
 
+### Day5  2019-04-20:  
+**今天的进步**: 参考别人的面经，调整学习内容。
 
+**思考:** 深扣项目细节，挖掘项目中用到的知识点，并学习掌握；写自己的项目，补充工作中的不足。
+
+**项目链接:** [魔都大厂面经](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0))
 
 
