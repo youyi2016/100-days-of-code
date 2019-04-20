@@ -35,6 +35,6 @@
 
 **思考:** 深扣项目细节，挖掘项目中用到的知识点，并学习掌握；写自己的项目，补充工作中的不足。
 
-**项目链接:** [魔都大厂面经](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0))
+**项目链接:** [魔都大厂面经](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0)
 
 
