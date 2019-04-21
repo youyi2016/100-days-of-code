@@ -37,4 +37,11 @@
 
 **项目链接:** [魔都大厂面经](https://medium.muz.li/inspiring-examples-of-css-animation-2b2a5dd464e0)
 
+### Day6  2019-04-21:  
+**今天的进步**: 复习HTML／css的知识，a标签、label标签、元素类型、css像素。
+
+**思考:** a标签href跳转到指定元素的用法，可以用于点击按钮直接将滚动条设置到最底部，不用再使用js计算。label标签关联input元素直接可以用于实现多个radio元素的单选功能。css像素和物理像素还待研究，弄清楚这块知识，以后再遇到设计师怼前端说像素看上去比设计稿的样式小就可以解释了。
+
+**项目链接:** [HTML笔记](http://note.youdao.com/noteshare?id=0cc00e3edf14d9f3d4903a4a86548f7a)
+
 
