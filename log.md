@@ -70,3 +70,12 @@
 
 **项目链接:** 无线上链接
 
+### Day8/100 2019-04-28 new start:
+
+**今天的进步**: 算法练习-js
+
+**思考:** arguments和数组类似，不过只有数组中的length和索引，没有数组所拥有的操作数组的相关方法，例如pop、push等方法。严格模式下数组中的调用自身函数的arguments.callee和访问调用函数的引用的argumens.callee.caller方法不能使用。
+
+**项目链接:** [freecodecamp] (https://www.freecodecamp.cn/challenges/check-for-palindromes)
+
+
